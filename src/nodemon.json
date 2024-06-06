@@ -1,0 +1,9 @@
+{
+    "env":{
+        "MYSQL_USER": "root",
+        "MYSQL_PASSWORD": 1956,
+        "MYSQL_HOST": "localhost",
+        "MYSQL_DATABASE": "cursosPlaylists",
+        "PORT": 3000
+    }
+}
